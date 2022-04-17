@@ -2,12 +2,8 @@ const bNext = document.querySelector(".next");
 const bBefor = document.querySelector(".befor");
 const img =document.querySelector(".imgSl");
 
-console.log(bNext)
-console.log(bBefor)
-console.log(img)
-
 const arr= [1,2,3,4,5];
-console.log(img.src);
+
 
 
 bBefor.addEventListener("click", function() {
